@@ -103,18 +103,18 @@ body {
     margin-bottom: 30px
   }
   .title {
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
   }
   .title h1 {
-    font-size: 3em;
-    text-align: center;
+    font-size: 2.5em;
+    text-align: left;
   }
   .link-icon {
-    font-size: 9em;
+    font-size: 7em;
     /* width: 100vw; */
     padding-left: 0px;
-    padding-bottom: 100px;
-    padding-top: 20%;
+    /* padding-bottom: 100px; */
+    /* padding-top: 20%; */
   }
   .title-tagline {
     text-align: center;
