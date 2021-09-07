@@ -98,7 +98,7 @@ class Intro extends React.Component {
   <div className="intro-container-text">
 
     <div className="title">
-      <h1>Check.<br/>Save.<br/>Share.</h1>
+      {/*<h1>Check.<br/>Save.<br/>Share.</h1>*/}
       <div className="link-icon">🤳</div>
       {/*<div className="link-icon">🤳</div>*/}
 
