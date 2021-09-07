@@ -21,7 +21,7 @@ class Info extends React.Component {
   render() {
     return (
       <div className="info-container">
-      <Seo title="Scan safely with ScanSaver 🤳" />
+      <Seo title="Check. Save. Share." />
         <div className="info-container-items">
           <div className="info-container-pic">
 
@@ -53,6 +53,7 @@ class Info extends React.Component {
                 <div className="bullet-info">
                   <p><span className="blue-bold">Check your QR Code links.</span><br/>
                   Check embedded links for malicious content before you open them.</p>
+
                 </div>
               </div>
               <br/>
@@ -60,8 +61,8 @@ class Info extends React.Component {
               <div className="bullet-box">
                 <MdAddCircleOutline className="bullet-icon"/>
                 <div className="bullet-info">
-                  <p><span className="blue-bold">Save links for later.</span><br/>
-                  Add links to your feed so you can get to them on your own time.</p>
+                  <p><span className="blue-bold">Save links in one simple feed.</span><br/>
+                  Add links to your feed and get to them on your own time without digging through inboxes or threads.</p>
                 </div>
               </div>
               <br/>
@@ -70,7 +71,7 @@ class Info extends React.Component {
                 <FiSend className="bullet-icon"/>
                 <div className="bullet-info">
                   <p><span className="blue-bold">Share with friends.</span><br/>
-                  Sync your contacts and share links with friends.</p>
+                  Sync your contacts to share links with friends.</p>
                 </div>
               </div>
               <br/>
@@ -80,13 +81,13 @@ class Info extends React.Component {
                 <RiBookmarkLine className="bullet-icon"/>
                 <div className="bullet-info">
                   <p><span className="blue-bold">Create collections.</span><br/>
-                  Personal and shared collections help you organize your links.</p>
+                  Personal and shared collections help you organize and share your links.</p>
                 </div>
               </div>
               <br/>
 
 
-              <div className="bullet-box">
+         {/*     <div className="bullet-box">
                 <FaList className="bullet-icon"/>
                 <div className="bullet-info">
                   <p>
@@ -94,7 +95,7 @@ class Info extends React.Component {
                   No more digging through cluttered inboxes or threads.</p>
                 </div>
               </div>
-              <br/>
+          <br/>*/}
 
             </div>
           </div>

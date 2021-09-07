@@ -82,7 +82,7 @@ class Intro extends React.Component {
   <Plx parallaxData={parallaxData}>
 
   <div className="intro-container">
-  <Seo title="Scan safely with ScanSaver 🤳" />
+  <Seo title="Check. Save. Share." />
 
   <Plx parallaxData={parallaxText}>
   <div>
