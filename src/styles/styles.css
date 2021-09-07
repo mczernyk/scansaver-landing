@@ -116,7 +116,7 @@ body {
     max-width: 60%
   }
   .link-icon {
-    font-size: 7em;
+    font-size: 6.5em;
     /* width: 100vw; */
     max-width: 40%;
     /* background-color: green; */
@@ -124,6 +124,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
+    padding-right: 10%;
   }
   .title-tagline {
     text-align: center;
