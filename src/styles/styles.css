@@ -108,16 +108,16 @@ body {
     width: 80%;
     padding-left: 5%;
     padding-right: 5%;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: center;
   }
   .title h1 {
     font-size: 3em;
-    text-align: right;
+    text-align: left;
     width: 60%
   }
   .link-icon {
-    font-size: 6.9em;
+    font-size: 8em;
     /* width: 100vw; */
     width: 40%;
     /* background-color: green; */
