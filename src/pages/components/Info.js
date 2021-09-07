@@ -21,7 +21,7 @@ class Info extends React.Component {
   render() {
     return (
       <div className="info-container">
-      <Seo title="Save links for later" />
+      <Seo title="Scan safely with ScanSaver" />
         <div className="info-container-items">
           <div className="info-container-pic">
 
