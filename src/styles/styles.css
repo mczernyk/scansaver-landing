@@ -388,11 +388,11 @@ body {
 .request-container-input {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   color: white;
   min-height: 50vh;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
 .input-box{
@@ -462,6 +462,8 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding-bottom: 30px
+
 }
 
 .white-text{
