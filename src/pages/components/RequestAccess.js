@@ -141,12 +141,11 @@ class RequestAccess extends React.Component {
 
           <div className="center-text">
             <div className="link-icon-request">
-            <RiQrCodeLine onClick={this.handleClickScroll} cursor="pointer" />
+              <RiQrCodeLine onClick={this.handleClickScroll} cursor="pointer" />
             </div>
 
 
-            {/*<FaLink className="link-icon-request" onClick={this.handleClickScroll}   cursor="pointer"
-      />*/}
+
 
             <p>Sign up below to request<br></br>early access to <span className='black-text'>ScanSaver</span> for iOS.</p>
 
