@@ -8,7 +8,7 @@ import { RiQrCodeLine } from 'react-icons/ri';
 
 
 const Terms = () => (
-  <div>
+  <div className="terms-page">
     <Seo title="Terms of Service" />
 
     <div className="terms-container">

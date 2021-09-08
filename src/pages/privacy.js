@@ -9,7 +9,7 @@ import { RiQrCodeLine } from 'react-icons/ri';
 
 
 const Privacy = () => (
-  <div>
+  <div className="terms-page">
     <Seo title="Privacy Policy" />
 
     <div className="terms-container">

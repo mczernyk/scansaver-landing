@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import demo from "../../images/Screenshot01.png"
+import demo from "../../images/ssMockup.png"
 import { RiPlayListAddFill, RiAddCircleLine, RiBookmarkLine } from "react-icons/ri";
 import { MdAddCircleOutline } from "react-icons/md";
 import { FiSend } from "react-icons/fi";
@@ -87,15 +87,17 @@ class Info extends React.Component {
               <br/>
 
 
-         {/*     <div className="bullet-box">
-                <FaList className="bullet-icon"/>
-                <div className="bullet-info">
-                  <p>
-                  <span className="blue-bold">One simple feed.</span><br/>
-                  No more digging through cluttered inboxes or threads.</p>
-                </div>
-              </div>
-          <br/>*/}
+            {/*
+              <div className="bullet-box">
+                    <FaList className="bullet-icon"/>
+                    <div className="bullet-info">
+                      <p>
+                      <span className="blue-bold">One simple feed.</span><br/>
+                      No more digging through cluttered inboxes or threads.</p>
+                    </div>
+                  </div>
+              <br/>
+            */}
 
             </div>
           </div>
