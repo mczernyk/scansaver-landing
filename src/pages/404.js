@@ -7,9 +7,14 @@ import { RiQrCodeLine } from 'react-icons/ri';
 
 const NotFoundPage = () => (
   <Layout>
+
     <Seo title="404: Not found" />
-    <h1>404: Not Found</h1>
-    <p>There is nothing here, please double check your request.</p>
+    <div className="error">
+      <h1>404: Not Found</h1>
+      <p>There is nothing here,<br/>please double check your request.</p>
+
+    </div>
+
   </Layout>
 )
 

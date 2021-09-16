@@ -37,6 +37,7 @@ const Layout = ({ children }) => {
         <footer
           style={{
             marginTop: `2rem`,
+            textAlign: 'center'
           }}
         >
           © {new Date().getFullYear()} • ScanSaver
